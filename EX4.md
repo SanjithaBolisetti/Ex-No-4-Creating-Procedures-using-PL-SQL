@@ -16,7 +16,8 @@
 
 ### Output:
 
-![image](https://github.com/SanjithaBolisetti/Ex-No-4-Creating-Procedures-using-PL-SQL/assets/119393633/3409e87d-bb85-430a-86d8-306dab2a71ce)
+![image](https://github.com/SanjithaBolisetti/Ex-No-4-Creating-Procedures-using-PL-SQL/assets/119393633/c5d7009a-6f6f-4cf8-8940-57b546c3e35c)
+
 
 
 
